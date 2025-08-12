@@ -21,18 +21,18 @@ function Home(){
     
 
     <div className=" border-b-2 border-b-gray-300">
- <div className=" ml-4 mr-4 border-r-2 border-r-gray-300 border-l-2 border-l-gray-300">
+ <div id="About" className=" ml-4 mr-4 border-r-2 border-r-gray-300 border-l-2 border-l-gray-300">
     <About />
      </div>
     </div>
 
-    <div className="  border-b-2 border-b-gray-300">
+    <div id="Product" className="  border-b-2 border-b-gray-300">
       <div className=" ml-4 mr-4 border-r-2 border-r-gray-300 border-l-2 border-l-gray-300">
     <Product />
     </div>
     </div>
   
-    <div className="  ">
+    <div id="Service" className="  ">
             <div className=" ml-4 mr-4 border-r-2 border-r-gray-300 border-l-2 border-l-gray-300">
 
     
